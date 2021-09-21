@@ -6,10 +6,13 @@
         <entry key="..\:/AndroidStudio/Cryptography/app/src/main/res/layout/activity_main.xml" value="0.24242424242424243" />
         <entry key="..\:/AndroidStudio/Cryptography/app/src/main/res/layout/decrypt.xml" value="0.24242424242424243" />
         <entry key="..\:/AndroidStudio/Cryptography/app/src/main/res/layout/encrypt.xml" value="0.24242424242424243" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/Cryptography/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/Cryptography/app/src/main/res/layout/decrypt.xml" value="0.33" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/Cryptography/app/src/main/res/layout/encrypt.xml" value="0.22" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

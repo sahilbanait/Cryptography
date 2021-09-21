@@ -19,8 +19,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Encrypt" />
-        <activity android:name=".Decrypt" />
+        <activity android:name=".Encryption" />
+        <activity android:name=".Decryption" />
     </application>
 
 </manifest>

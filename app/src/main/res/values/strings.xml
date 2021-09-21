@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Cryptography</string>
+    <string name="encryption">Encryption</string>
+    <string name="decryption">Decryption</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="Encrpt">Encrypt</string>
 </resources>
